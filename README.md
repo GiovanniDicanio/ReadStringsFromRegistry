@@ -2,8 +2,6 @@
 
 By Giovanni Dicanio
 
-**NOTE:**  For more recent code, see the _new_ [**WinReg** repository](https://github.com/GiovanniDicanio/WinReg).
-
 To retrieve a string value from the Windows registry, the Win32 [`RegGetValue()`](https://msdn.microsoft.com/en-us/library/windows/desktop/ms724868%28v=vs.85%29.aspx) API can be used.
 
 The prototype of this function is showed here:
